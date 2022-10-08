@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ead684e4c12daf2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "747ac5c52885e53d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "컴퓨터의 구조/컴퓨터의 구성.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9eb091e0fe06c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "32295997a517c464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a80af811f8a0368",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a887a8ee066fb31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5db71416e236ec6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 181.5
+  },
+  "right": {
+    "id": "f7220c96826cdbff",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c33aa10a58feaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7c9686aedf9d7a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "컴퓨터의 구조/컴퓨터의 구성.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf4ab8b9cea5caec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "컴퓨터의 구조/컴퓨터의 구성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86e0e1410ac2f97c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "192c06806d8ab796",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "컴퓨터의 구조/컴퓨터의 구성.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "747ac5c52885e53d",
+  "lastOpenFiles": [
+    "마크다운 사용법.md",
+    "컴퓨터의 구조/컴퓨터의 구성.md"
+  ]
+}

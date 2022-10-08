@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "34e2716891b64d35",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3222b476a088d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "컴퓨터의 구성.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb1dd3333d884d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4896c4d17df308c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c9c55548314a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "029ee776ee94cddb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e4988922d656d5d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 146.5
+  },
+  "right": {
+    "id": "8931c3b1a86b9c0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b32513e2bd7c12b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3653b29f520316f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "컴퓨터의 구성.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd0f87f9d202e8e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "컴퓨터의 구성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58b891cbc6a3db87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9eb0004a1a0aeb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "컴퓨터의 구성.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "87c9c55548314a6b",
+  "lastOpenFiles": []
+}
