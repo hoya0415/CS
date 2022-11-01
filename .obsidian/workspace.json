@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터 공학/WEB/HTTP Request Methods.md",
+                "file": "컴퓨터 공학/WEB/REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "567370f855fc0de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터 공학/WEB/HTTP status code.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7220c96826cdbff",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 공학/WEB/HTTP Request Methods.md",
+                "file": "컴퓨터 공학/WEB/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 공학/WEB/HTTP Request Methods.md",
+                "file": "컴퓨터 공학/WEB/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터 공학/WEB/HTTP Request Methods.md"
+                "file": "컴퓨터 공학/WEB/REST API.md"
               }
             }
           }
@@ -173,14 +186,15 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "7b32abb78b94746d",
   "lastOpenFiles": [
+    "컴퓨터 공학/WEB/HTTP status code.md",
+    "Pasted image 20221028222835.png",
+    "컴퓨터 공학/WEB/REST API.md",
+    "컴퓨터 공학/WEB/HTTP Request Methods.md",
     "컴퓨터 공학/WEB/Cookie & Session.md",
-    "마크다운 사용법.md",
     "컴퓨터 공학/WEB/브라우저 동작 방식.md",
+    "마크다운 사용법.md",
     "README.md",
     "컴퓨터의 구조/컴퓨터의 구성.md"
   ]
